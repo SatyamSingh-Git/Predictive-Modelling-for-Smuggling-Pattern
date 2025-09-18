@@ -1,0 +1,1 @@
+{"location": ["Border A", "Border B", "Border C", "Border D"], "weather_condition": ["clear", "fog", "rain", "storm", "sunny"], "geopolitical_event": ["conflict", "none", "sanctions", "trade_dispute"], "terrain_type": ["flat", "forest", "mountain", "muddy", "water_body"]}

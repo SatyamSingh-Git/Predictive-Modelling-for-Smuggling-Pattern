@@ -1,0 +1,11 @@
+pandas~=2.2.3
+numpy~=2.0.2
+missingno~=0.5.2
+matplotlib~=3.9.4
+seaborn~=0.13.2
+scikit-learn~=1.6.1
+xgboost~=2.1.4
+lightgbm~=4.6.0
+catboost~=1.2.8
+shap~=0.47.2
+imbalanced-learn~=0.12.3
